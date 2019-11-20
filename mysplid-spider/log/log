@@ -1,0 +1,37 @@
+2019-10-25 15:48:28 INFO  [Spider] [run] Spider https://blog.csdn.net started!
+2019-10-25 15:48:30 WARN  [ResponseProcessCookies] [processCookies] Invalid cookie header: "Set-Cookie: uuid_tt_dd=10_20887832340-1571989708874-737726; Expires=Thu, 01 Jan 2025 00:00:00 GMT; Path=/; Domain=.csdn.net;". Unrecognized cookie header 'Set-Cookie: uuid_tt_dd=10_20887832340-1571989708874-737726; Expires=Thu, 01 Jan 2025 00:00:00 GMT; Path=/; Domain=.csdn.net;'
+2019-10-25 15:48:30 WARN  [ResponseProcessCookies] [processCookies] Invalid cookie header: "Set-Cookie: dc_session_id=10_1571989708874.923041; Expires=Thu, 01 Jan 2025 00:00:00 GMT; Path=/; Domain=.csdn.net;". Unrecognized cookie header 'Set-Cookie: dc_session_id=10_1571989708874.923041; Expires=Thu, 01 Jan 2025 00:00:00 GMT; Path=/; Domain=.csdn.net;'
+2019-10-25 15:48:30 INFO  [HttpClientDownloader] [download] downloading page success https://blog.csdn.net/HackQ_sxj/article/list/1?
+2019-10-25 15:48:34 WARN  [ResponseProcessCookies] [processCookies] Invalid cookie header: "Set-Cookie: uuid_tt_dd=10_20887832340-1571989713326-741347; Expires=Thu, 01 Jan 2025 00:00:00 GMT; Path=/; Domain=.csdn.net;". Unrecognized cookie header 'Set-Cookie: uuid_tt_dd=10_20887832340-1571989713326-741347; Expires=Thu, 01 Jan 2025 00:00:00 GMT; Path=/; Domain=.csdn.net;'
+2019-10-25 15:48:34 WARN  [ResponseProcessCookies] [processCookies] Invalid cookie header: "Set-Cookie: dc_session_id=10_1571989713326.748414; Expires=Thu, 01 Jan 2025 00:00:00 GMT; Path=/; Domain=.csdn.net;". Unrecognized cookie header 'Set-Cookie: dc_session_id=10_1571989713326.748414; Expires=Thu, 01 Jan 2025 00:00:00 GMT; Path=/; Domain=.csdn.net;'
+2019-10-25 15:48:34 INFO  [HttpClientDownloader] [download] downloading page success https://blog.csdn.net/HackQ_sxj/article/list/2?
+2019-10-25 15:48:38 WARN  [ResponseProcessCookies] [processCookies] Invalid cookie header: "Set-Cookie: uuid_tt_dd=10_20887832340-1571989717530-437948; Expires=Thu, 01 Jan 2025 00:00:00 GMT; Path=/; Domain=.csdn.net;". Unrecognized cookie header 'Set-Cookie: uuid_tt_dd=10_20887832340-1571989717530-437948; Expires=Thu, 01 Jan 2025 00:00:00 GMT; Path=/; Domain=.csdn.net;'
+2019-10-25 15:48:38 WARN  [ResponseProcessCookies] [processCookies] Invalid cookie header: "Set-Cookie: dc_session_id=10_1571989717530.900116; Expires=Thu, 01 Jan 2025 00:00:00 GMT; Path=/; Domain=.csdn.net;". Unrecognized cookie header 'Set-Cookie: dc_session_id=10_1571989717530.900116; Expires=Thu, 01 Jan 2025 00:00:00 GMT; Path=/; Domain=.csdn.net;'
+2019-10-25 15:48:38 INFO  [HttpClientDownloader] [download] downloading page success https://blog.csdn.net/HackQ_sxj/article/list/3?
+2019-10-25 15:48:42 WARN  [ResponseProcessCookies] [processCookies] Invalid cookie header: "Set-Cookie: uuid_tt_dd=10_20887832340-1571989721670-165845; Expires=Thu, 01 Jan 2025 00:00:00 GMT; Path=/; Domain=.csdn.net;". Unrecognized cookie header 'Set-Cookie: uuid_tt_dd=10_20887832340-1571989721670-165845; Expires=Thu, 01 Jan 2025 00:00:00 GMT; Path=/; Domain=.csdn.net;'
+2019-10-25 15:48:42 WARN  [ResponseProcessCookies] [processCookies] Invalid cookie header: "Set-Cookie: dc_session_id=10_1571989721670.421501; Expires=Thu, 01 Jan 2025 00:00:00 GMT; Path=/; Domain=.csdn.net;". Unrecognized cookie header 'Set-Cookie: dc_session_id=10_1571989721670.421501; Expires=Thu, 01 Jan 2025 00:00:00 GMT; Path=/; Domain=.csdn.net;'
+2019-10-25 15:48:42 INFO  [HttpClientDownloader] [download] downloading page success https://blog.csdn.net/HackQ_sxj/article/list/4?
+2019-10-30 08:45:48 WARN  [JSONObject] [toBean] Tried to assign property is_openlock:java.lang.Integer to bean of class com.test.json.msg.PreLoginResponseMessage
+2019-10-30 15:09:42 WARN  [JSONObject] [toBean] Tried to assign property is_openlock:java.lang.Integer to bean of class com.test.json.msg.PreLoginResponseMessage
+2019-10-30 15:10:39 WARN  [JSONObject] [toBean] Tried to assign property is_openlock:java.lang.Integer to bean of class com.test.json.msg.PreLoginResponseMessage
+2019-10-30 15:11:00 WARN  [JSONObject] [toBean] Tried to assign property is_openlock:java.lang.Integer to bean of class com.test.json.msg.PreLoginResponseMessage
+2019-10-30 15:11:49 WARN  [JSONObject] [toBean] Tried to assign property is_openlock:java.lang.Integer to bean of class com.test.json.msg.PreLoginResponseMessage
+2019-10-30 15:12:34 WARN  [JSONObject] [toBean] Tried to assign property is_openlock:java.lang.Integer to bean of class com.test.json.msg.PreLoginResponseMessage
+2019-10-30 15:17:13 WARN  [JSONObject] [toBean] Tried to assign property is_openlock:java.lang.Integer to bean of class com.test.json.msg.PreLoginResponseMessage
+2019-10-30 15:19:29 WARN  [JSONObject] [toBean] Tried to assign property is_openlock:java.lang.Integer to bean of class com.test.json.msg.PreLoginResponseMessage
+2019-10-30 15:20:52 WARN  [JSONObject] [toBean] Tried to assign property is_openlock:java.lang.Integer to bean of class com.test.json.msg.PreLoginResponseMessage
+2019-10-30 15:21:14 WARN  [JSONObject] [toBean] Tried to assign property is_openlock:java.lang.Integer to bean of class com.test.json.msg.PreLoginResponseMessage
+2019-10-30 15:22:31 WARN  [JSONObject] [toBean] Tried to assign property is_openlock:java.lang.Integer to bean of class com.test.json.msg.PreLoginResponseMessage
+2019-10-30 15:56:46 WARN  [JSONObject] [toBean] Tried to assign property is_openlock:java.lang.Integer to bean of class com.test.json.msg.PreLoginResponseMessage
+2019-10-30 15:57:30 WARN  [JSONObject] [toBean] Tried to assign property is_openlock:java.lang.Integer to bean of class com.test.json.msg.PreLoginResponseMessage
+2019-10-30 16:03:07 WARN  [JSONObject] [toBean] Tried to assign property is_openlock:java.lang.Integer to bean of class com.test.json.msg.PreLoginResponseMessage
+2019-10-30 16:03:28 WARN  [JSONObject] [toBean] Tried to assign property is_openlock:java.lang.Integer to bean of class com.test.json.msg.PreLoginResponseMessage
+2019-10-30 16:05:24 WARN  [JSONObject] [toBean] Tried to assign property is_openlock:java.lang.Integer to bean of class com.test.json.msg.PreLoginResponseMessage
+2019-10-30 16:06:28 WARN  [JSONObject] [toBean] Tried to assign property is_openlock:java.lang.Integer to bean of class com.test.json.msg.PreLoginResponseMessage
+2019-10-30 16:09:55 WARN  [JSONObject] [toBean] Tried to assign property is_openlock:java.lang.Integer to bean of class com.test.json.msg.PreLoginResponseMessage
+2019-10-30 16:12:24 WARN  [JSONObject] [toBean] Tried to assign property is_openlock:java.lang.Integer to bean of class com.test.json.msg.PreLoginResponseMessage
+2019-10-30 16:16:37 WARN  [JSONObject] [toBean] Tried to assign property is_openlock:java.lang.Integer to bean of class com.test.json.msg.PreLoginResponseMessage
+2019-10-30 16:25:08 WARN  [JSONObject] [toBean] Tried to assign property is_openlock:java.lang.Integer to bean of class com.test.json.msg.PreLoginResponseMessage
+2019-10-30 16:25:44 WARN  [JSONObject] [toBean] Tried to assign property is_openlock:java.lang.Integer to bean of class com.test.json.msg.PreLoginResponseMessage
+2019-10-30 16:28:14 WARN  [JSONObject] [toBean] Tried to assign property is_openlock:java.lang.Integer to bean of class com.test.json.msg.PreLoginResponseMessage
+2019-10-30 16:28:40 WARN  [JSONObject] [toBean] Tried to assign property is_openlock:java.lang.Integer to bean of class com.test.json.msg.PreLoginResponseMessage
